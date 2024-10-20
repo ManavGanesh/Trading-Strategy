@@ -9,7 +9,7 @@ The strategy is a hedging strategy. The model does an okay job of avoiding large
 
 ## Future Improvements
 The model is very simple and can be made more complex to improve performance. Using more complex and 'deeper' models like RNNs/LSTMs would definitely yield better results. External factors like S&P 500 and other factors also affect market price movements and should be taken into consideration while trying to implement a trading strategy. The feature engineering can also be improved to generate and use better indicators for trading. 
-Intra-day trading could also be implemented to improve profits by increasing the frequencey of trading. Keeping track of price movements every few minutes would significantly increasse the number datapoints and improve the model
+Intra-day trading could also be implemented to improve profits by increasing the frequencey of trading. Keeping track of price movements every few minutes would significantly increasse the number datapoints and improve the model.
 
 
 
